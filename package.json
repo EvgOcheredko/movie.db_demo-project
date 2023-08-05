@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/EvgOcheredko/UdemySecondProject#readme",
   "devDependencies": {
-    "eslint": "^8.46.0"
+    "eslint": "8.22.0"
   }
 }
