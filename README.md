@@ -1,3 +1,3 @@
-# UdemySecondProject
+# movie.db_demo-project
 
-Working with the page - Practice Udemy
+Working with the page
